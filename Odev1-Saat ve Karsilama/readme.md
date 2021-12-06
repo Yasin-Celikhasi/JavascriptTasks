@@ -3,4 +3,4 @@ Bu ödevde; promt() ile girilen ismi, innerHTML ile ekrana yazdırdık.Ayrıca D
 
 ---
 
-![img](./img/js_task1.PNG)
+![img](./img/js_task1.png)
